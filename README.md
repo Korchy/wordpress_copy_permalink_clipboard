@@ -1,4 +1,4 @@
-# Copy Permalink to Clipboard - Wordpress plugin
+# Copy Permalink to Clipboard - WordPress plugin
 
 A WordPress plugin that adds a "to Clipboard" button next to the post link fields to the posts editor interface. Clicking on it copies the full post permalink to the clipboard.
 
