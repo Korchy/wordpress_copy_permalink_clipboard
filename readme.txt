@@ -18,7 +18,6 @@ A WordPress plugin that adds a "to Clipboard" button next to the post link field
 == Screenshots ==
 
 1. screenshot-1.jpg
-2. screenshot-2.jpg
 
 == Changelog ==
 
